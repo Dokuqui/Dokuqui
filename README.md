@@ -33,12 +33,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3>🖥️ Backend</h3>
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,dotnet,go&theme=light"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,dotnet,go,graphql&theme=light"/></a>
 </p>
 
 <h3>🗃️ Databases</h3>
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=light"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,prisma,firebase&theme=light"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="50" height="50"/></a>
 </p>
 
@@ -50,13 +50,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3>☁️ DevOps & CI/CD</h3>
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,github,githubactions,gitlab,kubernetes,docker,jenkins&theme=light"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,github,githubactions,gitlab,kubernetes,docker,jenkins,prometheus&theme=light"/></a>
   <a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/></a>
 </p>
 
 <h3>🧪 Testing</h3>
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest,cypress,gherkin&theme=light"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest,cypress,gherkin,postman&theme=light"/></a>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" width="50" height="50"/>
 </p>
 
 <h3>🎨 Design & UI</h3>
@@ -70,13 +71,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://canvasjs.com" target="_blank"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="50" height="50"/></a>
   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://github.com/user-attachments/assets/4aa90ba8-c6ae-4c79-8070-b11ddd5eeae5" alt="Power BI" width="50" height="50"/></a>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elastic" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="Matlab" width="50" height="50"/>
+</p>🎮
+
+<h3>🧠 Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,powershell,bash,linux,apollo,babel,md,pnpm,webpack&theme=light"/></a>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="Sonar" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/turborepo.png" alt="Turbo" width="50" height="50"/>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="50" height="50"/></a>
 </p>
 
-<h3>🧠 Tools & Others</h3>
+<h3>🧠 GameDev</h3>
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,powershell,bash,linux,graphql,apollo,unity,babel,md,pnpm&theme=light"/></a>
-  <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="50" height="50"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="50" height="50"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity,blender&theme=light"/></a>
 </p>
 
 

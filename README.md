@@ -78,6 +78,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3>🧠 Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,powershell,bash,linux,apollo,babel,md,pnpm,webpack&theme=light"/></a>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" alt="Groovy" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sonarqube.png" alt="Sonar" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/turborepo.png" alt="Turbo" width="50" height="50"/>
